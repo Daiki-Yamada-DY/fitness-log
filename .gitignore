@@ -1,0 +1,2 @@
+# .gitignoreが置かれたディレクトリ内のフォルダ以下を除外
+/node_modules/
